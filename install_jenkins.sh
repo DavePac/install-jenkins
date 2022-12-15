@@ -14,4 +14,4 @@ sudo yum install git -y
 
 #Use The Amazon Linux 2 AMI When Launching The Jenkins VM/EC2 Instance
 #Instance Type: t2.medium or small minimum
-#Open Port (Security Group): 8090
+#Open Port (Security Group): 8080
